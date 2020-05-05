@@ -1,0 +1,138 @@
+
+nav {
+	padding: 1vh;
+	margin-bottom: 1vh;
+}
+
+.content {
+    margin: 0vw 5vw 0vw 5vw;
+}
+
+
+#studentCard {
+	width: 70vh;
+	height: 90vh;
+}
+
+#foreleserCard {
+	width: 70vh;
+	height: 90vh;
+}
+
+#studentReg {
+	width: 70vh;
+	height: 90vh;
+}
+
+#foreleserReg {
+	width: 70vh;
+	height: 90vh;
+}
+
+input {
+	margin-bottom: 2vh;
+}
+
+.course {
+	margin-bottom: 10vh;
+}
+
+#login_card {
+	width: 60vh;
+	height: 40vh;
+	margin-top: 5vh;
+}
+
+#overskrift {
+	margin-bottom: 0;
+	margin-top: 5vh;
+	margin-left: 5vh;
+	padding: 0;
+}
+
+header {
+	margin-bottom: 3vh;
+}
+
+#adminText {
+	margin-right: 4vh;
+	margin-top: 1vh;
+}
+
+#studentText {
+	margin-right: 4vh;
+	margin-top: 1vh;
+}
+
+#ProfInfoCard {
+	margin-top: 5vh;
+	width: 60vh;
+	height: 50vh;
+}
+
+#courseInfoCard {
+	margin-top: 5vh;
+	width: 60vh;
+	height: 50vh;
+}
+
+#card {
+	width: 100vh;
+	margin-left: 5vh;
+	height: auto;
+}
+
+#emner {
+	width: 100vh;
+}
+
+#emnerCard {
+	margin-right: 5vh;
+	width: 100vh;
+	height: auto;
+}
+
+.meldingCard {
+	display: flex;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	text-align: center;
+	margin-right: 10vh;
+}
+
+.meldingCardContent {
+	padding: 3vh;
+	width: 40vh;
+	height: 40vh;
+}
+
+.card-footer {
+	margin-top: 20vh;
+	text-align: center;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+
+textarea {
+	width: 50vh;
+	height: 20vh;
+	margin-left: 2vh;
+}
+
+#emnerSelect {
+	margin-right: 5vh;
+}
+
+#emnerDD {
+	width: 60vh;
+	margin-right: 5vh;
+}
+
+#adminHeader {
+	padding: 20vh;
+}
+
+

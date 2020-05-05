@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">datasikkerhetApp</string>
+
+    <string-array name="courses">
+        <item>Datasikkerhet i utvikling og drift</item>
+        <item>Programmering 2</item>
+        <item>Rammeverk</item>
+    </string-array>
+
+    <string name="buttonText">Push me!</string>
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

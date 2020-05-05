@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/courseListBtn"
+            android:title="Emneliste" />
+        <item
+            android:id="@+id/userOptionsBtn"
+            android:title="Brukerinnstillinger">
+            <menu>
+                <item
+                    android:id="@+id/changePwBtn"
+                    android:title="Bytt passord" />
+                <item
+                    android:id="@+id/logOutBtn"
+                    android:title="Logg ut" />
+            </menu>
+        </item>
+    </group>
+
+</menu>
